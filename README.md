@@ -11,9 +11,9 @@
 
 - 🌱 Spoken languages **English |  French | German | Lingala | Swahili**
 
-- 💬 Ask me about **Business Analysis/Analytics/Intelligence | Data Science**
+- 💬 Ask me about **Business Analysis/Analytics/Intelligence | Data Science | Statistics**
 
-- 📫 How to reach me **yannickmp@gmail.com**
+- 📫 Reach me at : **yannickmp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
